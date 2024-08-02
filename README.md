@@ -170,7 +170,7 @@ SistemasDeEleccionOnline/
    - Luego, puedes construir un archivo wheel (.whl) para desplegarlo en otro entorno.
 
 3. **Estructura del Código**:
-   - Tu proyecto sigue una estructura organizada para mantener la claridad y la modularidad. Aquí están los principales directorios y archivos:
+   - El proyecto sigue una estructura organizada para mantener la claridad y la modularidad. Aquí están los principales directorios y archivos:
      - **app/controllers/**: Contiene los controladores que manejan la lógica de las rutas.
      - **app/domain/**: Define el dominio de la aplicación, incluyendo entidades, repositorios y servicios.
      - **app/templates/**: Contiene las plantillas HTML para renderizar vistas.
